@@ -7,6 +7,11 @@ Please visit https://maxknox87.github.io/ to view the current verison of the pro
 
 # Project Log
 
-- Week 1 (xx/xx/xx)
+Week 1 (xx/xx/xx)
+ - Began project
+ 
+Week 2
+ - s
+ 
 
 
