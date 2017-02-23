@@ -4,3 +4,9 @@ Documents and files associated with the Digital Media: Design, Production and De
 http://codepen.io/anon/pen/bgjGyj?editors=100
 
 Please visit https://maxknox87.github.io/ to view the current verison of the project.
+
+# Project Log
+
+- Week 1 (xx/xx/xx)
+
+
