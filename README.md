@@ -18,8 +18,25 @@ Informed by the findings of the research, a prototype WebVR application was crea
 Week 1 (xx/xx/xx)
  - Began project
  
-Week 2
+Week 2 (xx/xx/xx)
  - s
  
+Week 3 (xx/xx/xx)
+ - Began project
+ 
+Week 4 (xx/xx/xx)
+ - Began project
+ 
+Week 5 (xx/xx/xx)
+ - Began project
+
+Week 6 (xx/xx/xx)
+ - Began project
+ 
+Week 7 (xx/xx/xx)
+ - Began project
+ 
+Week 8 (xx/xx/xx)
+ - Began project
 
 
