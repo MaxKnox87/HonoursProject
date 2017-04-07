@@ -15,13 +15,15 @@ Informed by the findings of the research, a prototype WebVR application was crea
 
 # Project Log
 
-Week 1 (xx/xx/xx)
- - Began project
+Week 1 (03/10/2016)
+ - Work on project began
+ - Defining project title and questions to address
  
-Week 2 (xx/xx/xx)
- - s
+Week 2 (10/10/2016)
+ - Began to source reference material for project proposal
+ - Work on project proposal commenced
  
-Week 3 (xx/xx/xx)
+Week 3 (17/10/2016)
  - Began project
  
 Week 4 (xx/xx/xx)
