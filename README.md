@@ -24,21 +24,61 @@ Week 2 (10/10/2016)
  - Work on project proposal commenced
  
 Week 3 (17/10/2016)
- - Began project
+ - Continued to work on poject proposal.
+ - Continued research into relevant subject areas: VR, E-learning, A-Frame
+ - Work on inital, condensed literature review.
  
-Week 4 (xx/xx/xx)
- - Began project
+Week 4 (24/10/2016)
+ - Finalisation of project proposal and initial literature review
+ - Submitted project proposal.
  
-Week 5 (xx/xx/xx)
+Week 5 (31/10/2016)
+ - Began research phase of project. 
+ - Coninued to expand upon source materials, adding more material to library of sources.
+
+Week 6 (7/11/2016)
+ - Worked on literature review component of the Research phase.
+ - Investigated various examples to include in Critical Review component.
+ 
+Week 7 (14/11/2016)
+ - Continued working on literature review - finding sources, making notes, writing reveiw.
+ - Continued with Critical Review - investigating examples, comparing to findings of research.
+ 
+Week 8 (21/11/2016)
  - Began project
 
-Week 6 (xx/xx/xx)
+Week 9 (28/11/2016)
  - Began project
  
-Week 7 (xx/xx/xx)
+Week 10 (05/12/2016)
+ - Began project
+
+Week 11 (12/12/2016)
  - Began project
  
-Week 8 (xx/xx/xx)
+Week 12 (19/12/2016)
  - Began project
 
+Week 13 (26/12/2016)
+ - Began project
+ 
+Week 14 (19/12/2016)
+ - Began project
+ 
+Week 15 (19/12/2016)
+ - Began project
 
+Week 16 (19/12/2016)
+ - Began project
+ 
+Week 17 (19/12/2016)
+ - Began project
+ 
+Week 18 (19/12/2016)
+ - Began project
+ 
+Week 19 (19/12/2016)
+ - Began project
+ 
+Week 20 (19/12/2016)
+ - Began project
