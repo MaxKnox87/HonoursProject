@@ -1,7 +1,7 @@
 # HonoursProject
 Documents and files associated with the Digital Media: Design, Production and Development 4th year Honours project
 
-Please visit https://maxknox87.github.io/ to view the current verison of the project.
+Please visit https://maxknox87.github.io/ to view the current verison of the project prototype.
 
 # Abstract
 
@@ -24,9 +24,9 @@ Week 2 (10/10/2016)
  - Work on project proposal commenced
  
 Week 3 (17/10/2016)
- - Continued to work on poject proposal.
+ - Continued to work on project proposal.
  - Continued research into relevant subject areas: VR, E-learning, A-Frame
- - Work on inital, condensed literature review.
+ - Worked on inital, condensed literature review.
  
 Week 4 (24/10/2016)
  - Finalisation of project proposal and initial literature review
